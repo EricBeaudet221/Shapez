@@ -25,9 +25,11 @@ public class Triangle {
     }
     public double setHeight(){
         this.height = height;
+        return 0;
     }
     public double setBase(){
         this.base = base;
+        return 0;
     }
     
     
